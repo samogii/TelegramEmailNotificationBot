@@ -4,7 +4,7 @@ This C# console application allows users to get notified on Telegram when new em
 
 ## Features
 
-- Automatically monitors a POP3 email server for new messages.
+- Automatically monitors a IMAP email server for new messages.
 - Sends a Telegram notification when a new email is received.
 - Requires the user's Telegram Bot Token and Chat ID.
 
@@ -12,7 +12,7 @@ This C# console application allows users to get notified on Telegram when new em
 
 - .NET SDK 6.0 or higher
 - A Telegram Bot created through [BotFather](https://core.telegram.org/bots#botfather)
-- POP3 Email Server credentials (Username, Password)
+- IMAP Email Server credentials (Username, Password)
 
 ## Setup Instructions
 
